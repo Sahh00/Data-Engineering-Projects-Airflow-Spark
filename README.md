@@ -7,3 +7,7 @@ Durante as práticas, utilizei uma API fake simulando a do Twitter como fonte de
 Explorei o funcionamento dos diferentes executores do Airflow e como configurar a ferramenta para rodar em diferentes ambientes, incluindo a orquestração de pipelines no Kubernetes para maior escalabilidade e resiliência.
 
 Ao final, obtive uma visão completa sobre como utilizar o Apache Airflow como uma ferramenta essencial na Engenharia de Dados, aplicando Python para automatizar e monitorar processos de forma robusta e eficiente.
+
+Grafico do projeto
+<img width="1867" height="946" alt="image" src="https://github.com/user-attachments/assets/79970292-129c-4252-8618-dd804ce073e9" />
+
